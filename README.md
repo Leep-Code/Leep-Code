@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🎓 I'm a university student passionate about technology and software development. Currently focused on learning and building projects that involve Databases, Machine Learning, and development with **Python** and **Java**.<br><br>- 📚 I'm studying Engineering in Telematics (Networks & IT) at Universidad Autónoma de Tamaulipas.<br>- 💻 I'm especially interested in Artificial intelligence, Automation, and Efficient data management.<br>- 🧠 Always learning and improving my programming skills.<br>- ⚙️ Currently working on a project that involves:<br>  - Machine Learning models<br>  - Data management with MySQL<br>  - Automation using Python</p>
+<p align="left">🎓 I'm a university student passionate about technology and software development. Currently focused on learning and building projects that involve Databases, Machine Learning, and development with Python** and Java.<br><br>- 📚 I'm studying Engineering in Telematics (Networks & IT) at Universidad Autónoma de Tamaulipas.<br>- 💻 I'm especially interested in Artificial intelligence, Automation, and Efficient data management.<br>- 🧠 Always learning and improving my programming skills.<br>- ⚙️ Currently working on a project that involves:<br>  - Machine Learning models<br>  - Data management with MySQL<br>  - Automation using Python</p>
 
 ###
 
